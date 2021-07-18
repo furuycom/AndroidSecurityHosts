@@ -19,5 +19,5 @@ https://github.com/furkun/AndroidSecurityHosts/raw/main/hosts
 - Google Play Store
 - F-Droid
 - Aurora Store
-- App's official website & GitHub repo
+- App's official website & official GitHub repo
 
