@@ -11,9 +11,9 @@ https://github.com/furkun/AndroidSecurityHosts/raw/main/hosts
 ```
 
 ### Recommended Filters
-| Title | Home Page |
+| Title | URL |
 | --- | --- |
-| HTTP Insecure File Extensions - Android | https://github.com/InnoScorpio/Special-Hosts |
+| HTTP Insecure File Extensions - Android | https://github.com/InnoScorpio/Special-Hosts/blob/master/HTTP_Insecure/File-Extensions/Android.txt |
 
 #### Where Can I Download Android Apps?
 - Google Play Store
