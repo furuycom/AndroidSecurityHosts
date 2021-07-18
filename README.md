@@ -13,6 +13,7 @@ https://github.com/furkun/AndroidSecurityHosts/raw/main/hosts
 ### Recommended Filters
 | Title | URL |
 | --- | --- |
+| AdAway | https://adaway.org/hosts.txt |
 | HTTP Insecure File Extensions - Android | https://github.com/InnoScorpio/Special-Hosts/blob/master/HTTP_Insecure/File-Extensions/Android.txt |
 
 #### Where Can I Download Android Apps?
