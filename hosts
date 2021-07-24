@@ -1,6 +1,6 @@
 # Title: Android Security Hosts
 # Homepage: https://github.com/furkun/AndroidSecurityHosts
-# Updated: 07/23/2021 (mm/dd/yyyy)
+# Updated: 07/24/2021 (mm/dd/yyyy)
 # License: https://github.com/furkun/AndroidSecurityHosts/blob/main/LICENSE
 # Contribute: Create an issue at https://github.com/furkun/AndroidSecurityHosts/issues
 
@@ -46,6 +46,7 @@
 0.0.0.0 androidjungles.com
 0.0.0.0 androidliste-tr.com
 0.0.0.0 androidmobileos.com
+0.0.0.0 androidmtk.com
 0.0.0.0 androidnature.com
 0.0.0.0 androidout.com
 0.0.0.0 androidoyun.club
@@ -80,6 +81,7 @@
 0.0.0.0 apk.gold
 0.0.0.0 apk.house
 0.0.0.0 apk.support
+0.0.0.0 apk.tools
 0.0.0.0 apkals.com
 0.0.0.0 apkapp.gallery
 0.0.0.0 apkappall.com
@@ -108,6 +110,8 @@
 0.0.0.0 apkedge.net
 0.0.0.0 apkexite.com
 0.0.0.0 apkfab.com
+0.0.0.0 apkfasak.com
+0.0.0.0 apkfeed.com
 0.0.0.0 apkfile.org
 0.0.0.0 apkfolks.com
 0.0.0.0 apkfollow.com
@@ -129,6 +133,7 @@
 0.0.0.0 apkity.com
 0.0.0.0 apklame.com
 0.0.0.0 apklands.com
+0.0.0.0 apklatestversion.com
 0.0.0.0 apklinker.com
 0.0.0.0 apkloo.com
 0.0.0.0 apklords.com
@@ -141,6 +146,7 @@
 0.0.0.0 apkmb.com
 0.0.0.0 apkmenu.com
 0.0.0.0 apkming.com
+0.0.0.0 apkmix.com
 0.0.0.0 apkmod-hack.blogspot.com
 0.0.0.0 apkmod.co
 0.0.0.0 apkmodcheat.com
@@ -207,6 +213,7 @@
 0.0.0.0 appbrain.com
 0.0.0.0 appcakefans.com
 0.0.0.0 appchive.net
+0.0.0.0 appcuk.com
 0.0.0.0 appdodo.com
 0.0.0.0 applatest.com
 0.0.0.0 appmus.com
@@ -220,8 +227,11 @@
 0.0.0.0 appsgeyser.io
 0.0.0.0 appsindia2016.blogspot.com
 0.0.0.0 appsonwindows.com
+0.0.0.0 appuals.com
 0.0.0.0 appvn.com
 0.0.0.0 aptoide.com
+0.0.0.0 arcelikservisibursa.com
+0.0.0.0 arealtaxi.ru
 0.0.0.0 areo3.it
 0.0.0.0 askmeapps.com
 0.0.0.0 auto-download.net
@@ -250,6 +260,7 @@
 0.0.0.0 ccaster.com
 0.0.0.0 ccm.net
 0.0.0.0 ceriss.it
+0.0.0.0 chainfire.eu
 0.0.0.0 charis.id
 0.0.0.0 cheatware.net
 0.0.0.0 chelpus.com
@@ -263,6 +274,7 @@
 0.0.0.0 clompany.it
 0.0.0.0 cloneapk.com
 0.0.0.0 cloudapks.com
+0.0.0.0 clubapk.com
 0.0.0.0 co.id
 0.0.0.0 coimobile.com
 0.0.0.0 conservatorioantinori.it
@@ -273,6 +285,7 @@
 0.0.0.0 crida.in
 0.0.0.0 cryptomerch.biz
 0.0.0.0 cungseo.com
+0.0.0.0 cyanogenmods.org
 0.0.0.0 davideandreazza.it
 0.0.0.0 dcitfinancialservice.in
 0.0.0.0 delhitrainingcourses.com
@@ -289,6 +302,7 @@
 0.0.0.0 download.it
 0.0.0.0 downloadapk.net
 0.0.0.0 downloadatystore.com
+0.0.0.0 downloadframarootapk.weebly.com
 0.0.0.0 downloadhdmovieapp.com
 0.0.0.0 downloadkingrootapk.com
 0.0.0.0 downloadpark.mobi
@@ -330,12 +344,23 @@
 0.0.0.0 file-downloaders.com
 0.0.0.0 filehippo.com
 0.0.0.0 fileplanet.com
+0.0.0.0 firmwareofficial.blogspot.com
 0.0.0.0 flarefiles.com
+0.0.0.0 flashtool.org
 0.0.0.0 flixarena.com
 0.0.0.0 flosshype.com
 0.0.0.0 fmcpe.com
 0.0.0.0 forum.sbenny.com
 0.0.0.0 fouadmods.net
+0.0.0.0 framaroot-app.com
+0.0.0.0 framaroot.net
+0.0.0.0 framaroot.vip
+0.0.0.0 framarootapkblog.wordpress.com
+0.0.0.0 framarootapkz.com
+0.0.0.0 framarootapkz.pressbooks.com
+0.0.0.0 framarootapp.com
+0.0.0.0 framarootappdownload.net
+0.0.0.0 framarootofficial.com
 0.0.0.0 freeapk.mobi
 0.0.0.0 freebrowsinglink.com
 0.0.0.0 freshfounder.com
@@ -415,6 +440,7 @@
 0.0.0.0 indirgo.club
 0.0.0.0 indirshop.com
 0.0.0.0 indirson.com
+0.0.0.0 indirvip.club
 0.0.0.0 inewkhushi.com
 0.0.0.0 infortunistica-milano.it
 0.0.0.0 insidesport.co
@@ -584,6 +610,8 @@
 0.0.0.0 rogtechs.com
 0.0.0.0 romeprivatetour.it
 0.0.0.0 root-nation.com
+0.0.0.0 rootmydevice.com
+0.0.0.0 rootmygalaxy.net
 0.0.0.0 royalmodapk.com
 0.0.0.0 safe-group.it
 0.0.0.0 safeforpc.com
@@ -617,6 +645,10 @@
 0.0.0.0 storeplayapk.com
 0.0.0.0 supermobilicapozza.it
 0.0.0.0 supermodapk.com
+0.0.0.0 supersu.co
+0.0.0.0 supersuapk.com
+0.0.0.0 supersuroot.org
+0.0.0.0 supersuzip.com
 0.0.0.0 sxprojects.net
 0.0.0.0 t-developers.com
 0.0.0.0 tabaccheriagalli.it
@@ -630,11 +662,13 @@
 0.0.0.0 techforpc.com
 0.0.0.0 techgamingreport.com
 0.0.0.0 techgara.com
+0.0.0.0 techgenesis.net
 0.0.0.0 techholicz.com
 0.0.0.0 technied.com
 0.0.0.0 technotaly.com
 0.0.0.0 techonation.com
 0.0.0.0 techpanga.com
+0.0.0.0 techtiptrick.com
 0.0.0.0 techxoom.com
 0.0.0.0 techylist.com
 0.0.0.0 techzim.co.zw
@@ -658,6 +692,7 @@
 0.0.0.0 torcenitecore.it
 0.0.0.0 torrapk.com
 0.0.0.0 touchtwit.net
+0.0.0.0 tr-apk.com
 0.0.0.0 transitrta.com
 0.0.0.0 transport.go.ke
 0.0.0.0 trashbox.ru
