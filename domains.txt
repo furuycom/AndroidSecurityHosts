@@ -40,6 +40,7 @@ androidhackers.io
 androidjungles.com
 androidliste-tr.com
 androidmobileos.com
+androidmtk.com
 androidnature.com
 androidout.com
 androidoyun.club
@@ -74,6 +75,7 @@ apk.fun
 apk.gold
 apk.house
 apk.support
+apk.tools
 apkals.com
 apkapp.gallery
 apkappall.com
@@ -102,6 +104,8 @@ apkdownloadhunt.com
 apkedge.net
 apkexite.com
 apkfab.com
+apkfasak.com
+apkfeed.com
 apkfile.org
 apkfolks.com
 apkfollow.com
@@ -123,6 +127,7 @@ apkism.com
 apkity.com
 apklame.com
 apklands.com
+apklatestversion.com
 apklinker.com
 apkloo.com
 apklords.com
@@ -135,6 +140,7 @@ apkmaza.net
 apkmb.com
 apkmenu.com
 apkming.com
+apkmix.com
 apkmod-hack.blogspot.com
 apkmod.co
 apkmodcheat.com
@@ -201,6 +207,7 @@ appbrain4.blogspot.com
 appbrain.com
 appcakefans.com
 appchive.net
+appcuk.com
 appdodo.com
 applatest.com
 appmus.com
@@ -214,8 +221,11 @@ appsgag.com
 appsgeyser.io
 appsindia2016.blogspot.com
 appsonwindows.com
+appuals.com
 appvn.com
 aptoide.com
+arcelikservisibursa.com
+arealtaxi.ru
 areo3.it
 askmeapps.com
 auto-download.net
@@ -244,6 +254,7 @@ catalogomareitalia.it
 ccaster.com
 ccm.net
 ceriss.it
+chainfire.eu
 charis.id
 cheatware.net
 chelpus.com
@@ -257,6 +268,7 @@ clcqc.infortunistica-milano.it
 clompany.it
 cloneapk.com
 cloudapks.com
+clubapk.com
 co.id
 coimobile.com
 conservatorioantinori.it
@@ -267,6 +279,7 @@ crackpropc.com
 crida.in
 cryptomerch.biz
 cungseo.com
+cyanogenmods.org
 davideandreazza.it
 dcitfinancialservice.in
 delhitrainingcourses.com
@@ -283,6 +296,7 @@ dottfrancescoversace.it
 download.it
 downloadapk.net
 downloadatystore.com
+downloadframarootapk.weebly.com
 downloadhdmovieapp.com
 downloadkingrootapk.com
 downloadpark.mobi
@@ -324,12 +338,23 @@ fidelitytime.it
 file-downloaders.com
 filehippo.com
 fileplanet.com
+firmwareofficial.blogspot.com
 flarefiles.com
+flashtool.org
 flixarena.com
 flosshype.com
 fmcpe.com
 forum.sbenny.com
 fouadmods.net
+framaroot-app.com
+framaroot.net
+framaroot.vip
+framarootapkblog.wordpress.com
+framarootapkz.com
+framarootapkz.pressbooks.com
+framarootapp.com
+framarootappdownload.net
+framarootofficial.com
 freeapk.mobi
 freebrowsinglink.com
 freshfounder.com
@@ -409,6 +434,7 @@ indiantribune.com
 indirgo.club
 indirshop.com
 indirson.com
+indirvip.club
 inewkhushi.com
 infortunistica-milano.it
 insidesport.co
@@ -578,6 +604,8 @@ rockmods.net
 rogtechs.com
 romeprivatetour.it
 root-nation.com
+rootmydevice.com
+rootmygalaxy.net
 royalmodapk.com
 safe-group.it
 safeforpc.com
@@ -611,6 +639,10 @@ starofmysore.com
 storeplayapk.com
 supermobilicapozza.it
 supermodapk.com
+supersu.co
+supersuapk.com
+supersuroot.org
+supersuzip.com
 sxprojects.net
 t-developers.com
 tabaccheriagalli.it
@@ -624,11 +656,13 @@ techfilx.com
 techforpc.com
 techgamingreport.com
 techgara.com
+techgenesis.net
 techholicz.com
 technied.com
 technotaly.com
 techonation.com
 techpanga.com
+techtiptrick.com
 techxoom.com
 techylist.com
 techzim.co.zw
@@ -652,6 +686,7 @@ toppctips.com
 torcenitecore.it
 torrapk.com
 touchtwit.net
+tr-apk.com
 transitrta.com
 transport.go.ke
 trashbox.ru
