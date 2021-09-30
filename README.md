@@ -10,12 +10,12 @@
 ## Subscribe
 Raw URL (hosts):
 ```sh
-https://github.com/furkun/AndroidSecurityHosts/raw/main/hosts
+https://raw.githubusercontent.com/furkun/AndroidSecurityHosts/main/hosts
 ```
 
 Raw URL (domains):
 ```sh
-https://github.com/furkun/AndroidSecurityHosts/raw/main/domains.txt
+https://raw.githubusercontent.com/furkun/AndroidSecurityHosts/main/domains.txt
 ```
 
 ### Recommended Filters
