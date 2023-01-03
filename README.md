@@ -21,7 +21,6 @@ https://raw.githubusercontent.com/furkun/AndroidSecurityHosts/main/domains.txt
 ### Recommended Filters
 | Title | URL |
 | --- | --- |
-| HTTP Insecure File Extensions - Android | [github.com](https://github.com/InnoScorpio/Special-Hosts/blob/master/HTTP_Insecure/File-Extensions/Android.txt) |
 | AdAway | [adaway.org](https://adaway.org/hosts.txt) |
 | GoodbyeAds Samsung | [github.com](https://github.com/jerryn70/GoodbyeAds/blob/master/Extension/GoodbyeAds-Samsung-AdBlock.txt) |
 | GoodbyeAds Xiaomi | [github.com](https://github.com/jerryn70/GoodbyeAds/blob/master/Extension/GoodbyeAds-Xiaomi-Extension.txt) |
